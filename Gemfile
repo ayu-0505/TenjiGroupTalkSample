@@ -62,4 +62,4 @@ group :development do
   gem 'bullet'
 end
 
-gem "kamal", "~> 2.6"
+gem "kamal", "~> 2.8"
